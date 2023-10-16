@@ -1391,8 +1391,42 @@ nav .fa-solid{
 	.timeline-dot{
 		left:0;
 	}
-    
-   
+}
+	
+@media(max-width: 450px){
+
+	.about-col-2{
+	
+	    padding: 1rem;
+	}
+	.about-col-2 p{
+	
+	   font-size: 12px ;
+	}
+	
+	#certificate{
+	
+	    margin-top: 1rem;
+	} 
+	
+	.layer h3{
+	
+	    font-size: 16px;
+	    margin-top: 10px 0 6px 0;
+	}
+	.layer p{
+	    margin: 3px 5px 5px 5px;
+	    font-size: 12px;
+	}
+	
+	.layer a{
+	    margin-top: 10px;
+	    font-size: 16px;
+	    line-height: 40px;
+	    width: 40px;
+	    height: 40px;
+	    border-radius: 50%;
+	}
 }
 
 #msg{
